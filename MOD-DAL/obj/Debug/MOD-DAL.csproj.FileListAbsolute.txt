@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-DAL\bin\Debug\MOD-DAL.dll
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-DAL\bin\Debug\MOD-DAL.pdb
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-DAL\obj\Debug\MOD-DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-DAL\obj\Debug\MOD-DAL.dll
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-DAL\obj\Debug\MOD-DAL.pdb
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-DAL\bin\Debug\MOD-DAL.dll.config
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-DAL\obj\Debug\MOD-DAL.csproj.CopyComplete
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-DAL\obj\Debug\MOD-DAL.csprojAssemblyReference.cache

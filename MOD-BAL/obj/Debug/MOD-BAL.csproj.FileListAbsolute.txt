@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-BAL\bin\Debug\MOD-BAL.dll.config
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-BAL\bin\Debug\MOD-BAL.dll
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-BAL\bin\Debug\MOD-BAL.pdb
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-BAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-BAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-BAL\bin\Debug\MOD-DAL.dll
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-BAL\bin\Debug\MOD-DAL.pdb
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-BAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-BAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-BAL\obj\Debug\MOD-BAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-BAL\obj\Debug\MOD-BAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-BAL\obj\Debug\MOD-BAL.csproj.CopyComplete
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-BAL\obj\Debug\MOD-BAL.dll
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-BAL\obj\Debug\MOD-BAL.pdb
+C:\Users\User\Desktop\modbackend-api\MOD-API\MOD-BAL\bin\Debug\MOD-DAL.dll.config
